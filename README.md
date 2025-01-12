@@ -9,7 +9,7 @@ The internship program provided valuable hands-on experience, allowing the appli
 
 ## Dataset Source
 
-The dataset is provided by **ID/X Partners** and contains historical loan data, including borrower demographics, loan details, and loan status (whether the loan was repaid or defaulted).
+The dataset is provided by **ID/X Partners** and contains historical loan data, including borrower demographics, loan details, and loan status.
 
 ## Approach
 
